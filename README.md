@@ -2,9 +2,9 @@
 This repository contains some advanced data structure libraries developed by me in a much simpler way. This repository gets updated from time to time whenever i come across some other new data structures.
 
 The repository has the codes for following Data structures
-* [Segment tree](https://github.com/Ram-Mohan333/Advanced_Data_Structures/blob/main/segtree.cpp) 
-* [Trie](https://github.com/Ram-Mohan333/Advanced_Data_Structures/blob/main/trie.cpp) 
-* [Union Find Disjoint Set](https://github.com/Ram-Mohan333/Advanced_Data_Structures/blob/main/union_find.cpp) 
+* [Segment tree](https://github.com/M-Ram-mohan/Advanced_Data_Structures/blob/main/segtree.cpp) 
+* [Trie](https://github.com/M-Ram-mohan/Advanced_Data_Structures/blob/main/trie.cpp) 
+* [Union Find Disjoint Set](https://github.com/M-Ram-mohan/Advanced_Data_Structures/blob/main/union_find.cpp) 
 
 ### My Intro
 Myself, [Ram Mohan](https://www.linkedin.com/in/ram-mohan-57629a1b6/).
