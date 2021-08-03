@@ -1,5 +1,12 @@
 #include <bits/stdc++.h>
 using namespace std;
+/*
+The segment tree functions are built using OOP. The class "segnode" refers to a node of segment tree. 
+Similar to recursion travel in trees, the queries are answered by traversing the nodes.
+The "build" initiates and builds the segment tree and returns the sum of all elements of array.
+The function "rmq" returns the sum between the indices "l" and "r".
+The function "update" updates te value at given index and returns the sum of all elements of new array 
+*/
 class segnode{
     public:
     int val,lm,rm;
